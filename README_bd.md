@@ -1,4 +1,4 @@
-# Curs Baze de Date
+# Curs B--Ex4aze de Date
 
 
 **SQL** este un **limbaj orientat pe seturi** (set-oriented language);
